@@ -1,37 +1,89 @@
-## Welcome to GitHub Pages
+# 简介
 
-You can use the [editor on GitHub](https://github.com/HNU-WYH/Chinese-standard-code-for-highway-construction/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+本项目收集并整理了公路工程大部分现行规范文件,规范现行状态可从[工标网](http://www.csres.com/)以及[国家标准全文公开系统](http://openstd.samr.gov.cn/bzgk/gb/index)查询得到,主要内容均来自于网络,侵删.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> 注:
+> 
+> 文件较大的现行规范文件由onedrive托管,可通过下面链接进行下载,文件较小的规范可直接在库中查询或下载.
 
-### Markdown
+# 现行公路工程规范列表:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 公路工程现行强制性规范_(JTG)
 
-```markdown
-Syntax highlighted code block
+1. [(JTG 2112-2021)城镇化地区公路工程技术标准](公路工程现行规范/(JTG_2112-2021)城镇化地区公路工程技术标准.pdf)
 
-# Header 1
-## Header 2
-### Header 3
+2. [(JTG 2120-2020)公路工程结构可靠性设计统一标准](公路工程现行规范/(JTG_2120-2020)公路工程结构可靠性设计统一标准.pdf)
 
-- Bulleted
-- List
+3. [(JTG F90-2015)公路工程施工安全技术规范](公路工程现行规范/(JTG_F90-2015)公路工程施工安全技术规范.pdf)
 
-1. Numbered
-2. List
+4. [(JTG B04-2010)公路环境保护设计规范](公路工程现行规范/(JTG_B04-2010)公路环境保护设计规范.pdf)
 
-**Bold** and _Italic_ and `Code` text
+5. [(JTG D50-2017)公路沥青路面设计规范](公路工程现行规范/(JTG_D50-2017)公路沥青路面设计规范.pdf)
 
-[Link](url) and ![Image](src)
-```
+6. [(JTG F40-2004)公路沥青路面施工技术规范](公路工程现行规范/(JTG_F40-2004)公路沥青路面施工技术规范.pdf)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+7. [(JTG F80/1-2017)公路工程质量检验评定标准_第一册_土建工程](公路工程现行规范/(JTG_F80_1-2017)公路工程质量检验评定标准_第一册_土建工程.pdf)
 
-### Jekyll Themes
+8. [(JTG 2182-2020)公路工程质量检验评定标准_第二册_机电工程](公路工程现行规范/(JTG_2182-2020)公路工程质量检验评定标准_第二册_机电工程.pdf)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HNU-WYH/Chinese-standard-code-for-highway-construction/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+9. [(JTG 1001-2017)公路工程标准体系](公路工程现行规范/(JTG_1001-2017)公路工程标准体系.pdf)
 
-### Support or Contact
+10. [(JTG D30 2015)公路路基设计规范](公路工程现行规范/(JTG_D30_2015)公路路基设计规范)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+11. [(JTG B05-2015)公路项目安全性评价规范](公路工程现行规范/(JTG_B05_2015)公路项目安全性评价规范.pdf)
+
+12. [(JTG D20-2017)公路路线设计规范](公路工程现行规范/(JTG_D20_2017)公路路线设计规范.pdf)
+
+13. [(JTG D40-2011)公路水泥混凝土路面设计规范](公路工程现行规范/(JTG_D40_2011)公路水泥混凝土路面设计规范.pdf)
+
+14. [待增加](公路工程现行规范/)
+
+15. [待增加](公路工程现行规范/)
+
+16. [待增加](公路工程现行规范/)
+
+17. [待增加](公路工程现行规范/)
+
+18. [待增加](公路工程现行规范/)
+
+19. [待增加](公路工程现行规范/)
+
+## 公路工程现行推荐信规范_(JTG/T)
+
+1. [(JTG/T 3671-2021)公路交通安全设施施工技术规范](公路工程现行规范/(JTG_T_3671-2021)公路交通安全设施施工技术规范.pdf)
+
+2. [(JTG/T 3610-2019)公路路基施工技术规范](公路工程现行规范/(JTG_T_3610-2019)公路路基施工技术规范.pdf)
+
+3. [(JTG/T 3650-2020)公路桥涵施工技术规范](公路工程现行规范/(JTG_T_3650-2020)公路桥涵施工技术规范.pdf)
+
+4. [(JTG/T 3660-2020)公路隧道施工技术规范](公路工程现行规范/(JTG_T_3660-2020)公路隧道施工技术规范.pdf)
+
+5. [(JTG/T 5521-2019)公路沥青路面再生技术规范](公路工程现行规范/(JTG_T_5521-2019)公路沥青路面再生技术规范.pdf)
+
+6. [(JTG/T 2340-2020)公路工程节能规范](公路工程现行规范/(JTG_T_2340-2020)公路工程节能规范.pdf)
+
+7. [(JTG/T 2231-01-2020)公路桥梁抗震设计规范](公路工程现行规范/(JTG_T_2231-01-2020)公路桥梁抗震设计规范.pdf)
+
+8. [(JTG/T 2422 2021)公路工程施工信息模型应用标准](公路工程现行规范/(JTG_T_2422_2021)公路工程施工信息模型应用标准.pdf)
+
+9. [(JTG/T D81-2017)公路交通安全设施设计细则](公路工程现行规范/(JTG_T_D81_2017)公路交通安全设施设计细则.pdf)
+
+10. [(JTG/T D31-03-2011)采空区公路设计与施工技术细则](公路工程现行规范/(JTG_T_D31_03_2011)采空区公路设计与施工技术细则.pdf)
+
+11. [(JTG/T D31-02-2013)公路软土地基路堤设计与施工技术细则](公路工程现行规范/(JTG_T_D31_02_2013)公路软土地基路堤设计与施工技术细则.pdf)
+
+12. [待增加](公路工程现行规范/)
+
+13. [待增加](公路工程现行规范/)
+
+14. [待增加](公路工程现行规范/)
+
+15. [待增加](公路工程现行规范/)
+
+## 部分交通土建主管部门发文
+
+1. [(建标[2011]124号)公路工程项目建设用地指标](公路工程现行规范/(建标[2011]124号)公路工程项目建设用地指标.pdf)
+
+2. [(交公路发[2010]65号)公路工程竣(交)工验收办法实施细则](公路工程现行规范/(交公路发[2010]65号)公路工程竣(交)工验收办法实施细则)
+
+3. [待增加](公路工程现行规范/)
